@@ -1,0 +1,39 @@
+.head{
+    color:rgb(211, 23, 23);
+    font-size:20px;
+}
+
+.subhead{
+    color:rgb(216, 43, 43);
+    font-style: italic;
+}
+.list{
+    font-size:20px;
+    color:rgb(90, 5, 5);
+    font-display: bold;
+}
+.list1{
+    font-size:20px;
+    color:rgb(90, 5, 5);
+    font-display: bold;
+    letter-spacing:5px;
+}
+p{
+
+    color:rgb(90, 5, 5);
+    font-display: bold;
+}
+a{
+    background-color: yellow;
+    color:rgb(90, 5, 5);
+    font-display: bold; 
+    font-style: italic;  
+}
+.bgcolor{
+    background-color: yellow;
+    font-weight:900;
+}
+.one{
+    text-decoration: underline;
+    font-style: italic;
+}
